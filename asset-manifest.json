@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/git%20remote%20add%20origin%20https://github.com/dymka13/lab7.git/static/css/main.372d430b.css",
-    "main.js": "/git%20remote%20add%20origin%20https://github.com/dymka13/lab7.git/static/js/main.ed015475.js",
-    "static/js/453.fd2f0c4a.chunk.js": "/git%20remote%20add%20origin%20https://github.com/dymka13/lab7.git/static/js/453.fd2f0c4a.chunk.js",
-    "index.html": "/git%20remote%20add%20origin%20https://github.com/dymka13/lab7.git/index.html",
-    "main.372d430b.css.map": "/git%20remote%20add%20origin%20https://github.com/dymka13/lab7.git/static/css/main.372d430b.css.map",
-    "main.ed015475.js.map": "/git%20remote%20add%20origin%20https://github.com/dymka13/lab7.git/static/js/main.ed015475.js.map",
-    "453.fd2f0c4a.chunk.js.map": "/git%20remote%20add%20origin%20https://github.com/dymka13/lab7.git/static/js/453.fd2f0c4a.chunk.js.map"
+    "main.css": "/lab7/static/css/main.372d430b.css",
+    "main.js": "/lab7/static/js/main.35cf28ff.js",
+    "static/js/453.fd2f0c4a.chunk.js": "/lab7/static/js/453.fd2f0c4a.chunk.js",
+    "index.html": "/lab7/index.html",
+    "main.372d430b.css.map": "/lab7/static/css/main.372d430b.css.map",
+    "main.35cf28ff.js.map": "/lab7/static/js/main.35cf28ff.js.map",
+    "453.fd2f0c4a.chunk.js.map": "/lab7/static/js/453.fd2f0c4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.372d430b.css",
-    "static/js/main.ed015475.js"
+    "static/js/main.35cf28ff.js"
   ]
 }
